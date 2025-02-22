@@ -1,0 +1,44 @@
+                                               Hotel Management
+
+
+Enter Customer Name (or type 'exit' to quit): honey 
+Enter Customer Age: 21
+Select an option: 1. Book Room 2. Cancel Booking 3. View Details 4. Logout
+1
+Available Rooms:
+Room Number: 101, Type: Deluxe, Booked: false, Price: $150.0
+Room Number: 102, Type: Suite, Booked: false, Price: $250.0
+Room Number: 103, Type: Standard, Booked: false, Price: $100.0
+Room Number: 104, Type: Executive, Booked: false, Price: $200.0
+Room Number: 105, Type: Deluxe, Booked: false, Price: $150.0
+Room Number: 106, Type: Suite, Booked: false, Price: $250.0
+Enter Room Number to Book: 106
+Room 106 booked successfully.
+Select an option: 1. Book Room 2. Cancel Booking 3. View Details 4. Logout
+3
+Customer Name: honey, Age: 21
+Booked Rooms:
+Room Number: 106, Type: Suite, Booked: true, Price: $250.0
+Select an option: 1. Book Room 2. Cancel Booking 3. View Details 4. Logout
+1
+Available Rooms:
+Room Number: 101, Type: Deluxe, Booked: false, Price: $150.0
+Room Number: 102, Type: Suite, Booked: false, Price: $250.0
+Room Number: 103, Type: Standard, Booked: false, Price: $100.0
+Room Number: 104, Type: Executive, Booked: false, Price: $200.0
+Room Number: 105, Type: Deluxe, Booked: false, Price: $150.0
+Enter Room Number to Book: 101
+Room 101 booked successfully.
+Select an option: 1. Book Room 2. Cancel Booking 3. View Details 4. Logout
+2
+Enter Room Number to Cancel: 106
+Booking for Room 106 has been canceled.
+Select an option: 1. Book Room 2. Cancel Booking 3. View Details 4. Logout
+3
+Customer Name: honey, Age: 21
+Booked Rooms:
+Room Number: 101, Type: Deluxe, Booked: true, Price: $150.0
+Select an option: 1. Book Room 2. Cancel Booking 3. View Details 4. Logout
+4
+Logging out...
+Enter Customer Name (or type 'exit' to quit): exit
